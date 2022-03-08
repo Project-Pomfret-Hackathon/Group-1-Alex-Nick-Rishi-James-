@@ -177,7 +177,7 @@ void main()
 
     while (1)
     {
-        printf("=====Student information Management Program=====(total number of people : %d)\n", StudentCount);
+        printf("====Student information Management Program====(total number of people : %d)\n", StudentCount);
         printf("1.student enrollment\n");
         printf("2.Student List (Registration order)\n");
         printf("3.Student List (by grade)\n");
