@@ -177,7 +177,6 @@ void main()
 
     while (1)
     {
-        system("cls");
         printf("=====Student information Management Program=====(total number of people : %d)\n", StudentCount);
         printf("1.student enrollment\n");
         printf("2.Student List (Registration order)\n");
